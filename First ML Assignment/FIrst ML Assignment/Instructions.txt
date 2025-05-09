@@ -1,1 +1,0 @@
-Salary CSV is used for this model
