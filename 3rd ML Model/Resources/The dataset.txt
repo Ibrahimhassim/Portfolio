@@ -1,0 +1,1 @@
+This model made use of the 20 news groups dataset available from scikit learn - this dataset does not need to be downloaded onto the computer as it is imported from scikit learn.
