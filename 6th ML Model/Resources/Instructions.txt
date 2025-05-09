@@ -1,0 +1,1 @@
+The dataset used here was the Cifar10 dataset similar to before this does not need to be downloaded and is a keras dataset and can be imported and loaded from keras directly as used in the code.
